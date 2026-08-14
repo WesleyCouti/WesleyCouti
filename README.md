@@ -1,61 +1,185 @@
-### Olá! Eu sou o Wesley Coutinho, Analista de Testes e QA ✋
+# Olá, eu sou Wesley Coutinho 👋
 
-<div align="center">
-  <a href="https://github.com/WesleyCouti">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=WesleyCouti&show_icons=true&theme=tokyonight"/>
-  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WesleyCouti&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+### QA Engineer | Test Automation
 
+Profissional de **Quality Assurance com mais de 4 anos de experiência em Qualidade de Software** e atuação profissional com **automação de testes desde 2022**.
 
-## Tecnologias que eu uso no meu dia
+Tenho experiência com aplicações **Web, Mobile, APIs REST e integrações**, atuando desde a análise de requisitos e estratégia de testes até a implementação de automações, execução de regressões e acompanhamento da qualidade das entregas.
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">  
-  <img align="center" alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
-  <img align="center" alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-  <img align="center" alt="Cucumber" src="https://img.shields.io/badge/Cucumber-open.svg?style=for-the-badge&logo=Cucumber&logoColor=white">
-</div>
-  
-  
-## Banco de dados que domino
+Ao longo da minha trajetória, participei da **estruturação de processos e automações de testes do zero** em diferentes projetos e squads.
 
- <div style="display: inline_block"><br/>
-      <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-      <img align="center" alt="SQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-      <img align="center" alt="SQLServer" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
-</div><br>
-  
-  
-## Ferramentas que conheço e utilizo 
+---
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img align="center" alt="Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
-  <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img align="center" alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">  
-  <img align="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-  <img align="center" alt="Confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white">
-  <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
- </div><br> 
-    
-## Sobre:
+## 🧪 Quality Assurance
 
-  Apaixonado por testes, testes de software, QA e por cada vez mais conhecimento em tecnologia.
-  Sou um profissional proativo, de ótima comunicação, que gosta de tomar iniciativa e concluir aquilo que comecei. 
-  Estou sempre à disposição para ajudar aqueles que precisam, para que possamos entregar o melhor. 
-  Me dedico em tudo que faço, seja de forma individual ou em colaboração com a equipe.
-  Enfim esse sou eu...
+- Testes Funcionais
+- Testes Exploratórios
+- Testes de Regressão
+- Testes E2E
+- Testes de Integração
+- API Testing
+- Mobile Testing
+- Performance Testing
+- BDD / Gherkin
+- Estratégia e planejamento de testes
+- Criação de cenários e casos de teste
+- Análise e documentação de defeitos
 
-  
-## Contatos e redes sociais:
+---
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-coutinho-422109136/)
-[![WhatApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/wesleycoutinho)
-  
-![snake gif](https://github.com/WesleyCouti/WesleyCouti/blob/output/github-contribution-grid-snake.svg)
+## 🤖 Test Automation
 
+**Principais tecnologias**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
+
+**Experiência adicional**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=flat-square&logo=robotframework&logoColor=white)
+
+---
+
+## 🔌 API Testing
+
+Experiência na validação de **APIs REST e integrações**, incluindo análise de:
+
+- Requests e responses
+- Status codes
+- Headers
+- Payloads JSON
+- Contratos e schemas
+- Cenários positivos e negativos
+- Integrações entre serviços
+
+**Ferramentas**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+---
+
+## 🗄️ Banco de Dados
+
+Experiência com consultas, validação de dados e bancos relacionais.
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+Experiência com:
+
+```sql
+SELECT
+JOIN
+WHERE
+GROUP BY
+SUBQUERIES
+```
+
+Também possuo experiência com **modelagem e desenvolvimento de banco de dados relacional**, incluindo projeto desenvolvido em Oracle.
+
+---
+
+## ⚙️ CI/CD e ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+Experiência acompanhando e colaborando na integração de testes automatizados em pipelines **CI/CD**, em conjunto com especialistas e times DevOps.
+
+---
+
+## 📈 Performance Testing
+
+Experiência profissional com testes de:
+
+- Carga
+- Estresse
+- Tempo de resposta
+- Throughput
+- Análise de gargalos
+- Monitoramento de aplicações
+
+Ferramentas utilizadas:
+
+![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+
+**Apache JMeter • AppDynamics**
+
+---
+
+## 🚀 Projetos em destaque
+
+Estou organizando neste GitHub projetos voltados à demonstração prática das minhas principais competências em Quality Assurance e Test Automation.
+
+### 🎭 Playwright Automation
+
+Framework de automação E2E utilizando Playwright, com foco em boas práticas de arquitetura, organização e manutenção de testes.
+
+**Tecnologias planejadas:**
+
+`Playwright` `JavaScript/TypeScript` `E2E` `Page Object Model` `API Testing` `CI/CD`
+
+> 🚧 Projeto em evolução.
+
+---
+
+### 🌲 Cypress E2E & API
+
+Projeto de automação utilizando Cypress para validações de interface e APIs.
+
+**Tecnologias:**
+
+`Cypress` `JavaScript` `E2E` `API Testing` `Fixtures` `Intercepts`
+
+> 🚧 Projeto em evolução.
+
+---
+
+### 🔌 API Testing
+
+Projeto voltado à automação e validação de APIs REST, contemplando cenários positivos, negativos e validações de contrato.
+
+**Conceitos:**
+
+`REST API` `JSON` `Status Codes` `Schema Validation` `Authentication`
+
+> 🚧 Projeto em evolução.
+
+---
+
+## 📚 Atualmente aprimorando
+
+Meu foco atual de desenvolvimento técnico está principalmente em:
+
+- Playwright
+- Arquitetura de automação de testes
+- API Testing
+- JavaScript / TypeScript aplicado a testes
+- CI/CD aplicado à automação
+- Boas práticas de engenharia de qualidade
+
+---
+
+## 🤝 Contato
+
+Estou aberto a conexões, troca de conhecimento e oportunidades relacionadas a **Quality Assurance e Test Automation**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wesley_Coutinho-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleycoutinhoqa/)
+[![Email](https://img.shields.io/badge/Email-wesley__mwmn%40hotmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wesley_mwmn@hotmail.com)
+
+---
+
+### 💡 Qualidade não é apenas encontrar bugs.
+
+É ajudar a construir software mais **confiável, previsível e sustentável**.
